@@ -20,6 +20,22 @@
     }
     .title{
         font-size: 15px;
-        
     }
   }
+
+  @media only screen and (max-width: 1248px) {
+    .content{
+        max-width: 33%;
+    }
+    .content-container{
+        display: flex;
+        justify-content:space-around;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .content{
+        max-width:50%;
+        /* margin-right: 15px; */
+    }
+}
