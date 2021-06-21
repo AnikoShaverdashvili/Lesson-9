@@ -1,0 +1,49 @@
+.header-container{
+    display: flex;
+     justify-content:space-evenly;
+    padding-top: 25px;
+    margin: 0 auto;
+    max-width: 1366px;
+    width: 100%;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+}
+.logo{
+    display: inline-block;
+}
+.nav-li{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+.follow{
+    text-transform: uppercase;
+}
+.fab{
+    display: inline-block;
+    font-size:15px;
+}
+.nav{
+    margin-right: 443px;
+}
+.icon{
+    display: inline-block;
+    margin-left: 5px;
+}
+.section{
+    padding-top:47px;
+    margin: 0 auto;
+    max-width: 1366px;
+    width: 100%;
+    justify-content:right;
+}
+.title{
+    font-size: 25px;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+.fa-bars{
+    display: none;
+}

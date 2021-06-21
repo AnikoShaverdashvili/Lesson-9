@@ -1,0 +1,21 @@
+/* @media only screen and (max-width: 1076px) {
+    .nav {
+      display: none;
+
+    }
+    .fa-bars{
+        display:block;
+        font-size: 10px;
+    }
+    .follow{
+        font-size:10px;
+        display: none;
+    }
+    .fa-facebook-f,.fa-instagram,.fa-linkedin-in{
+        display: none;
+        font-size: 10px;
+    }
+    .logo{
+        height:10px;
+    }
+  } */
